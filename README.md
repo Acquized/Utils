@@ -1,5 +1,5 @@
 # Utils
-![License](https://img.shields.io/github/license/Acquized/Utils.svg?style=flat-square)  
+![License](https://img.shields.io/badge/license-WTFPL%20v2-blue.svg?style=flat-square)  
   
 Utils is a Collection of useful Utilities for Java Programming. These should help making many Things easier.  
   
