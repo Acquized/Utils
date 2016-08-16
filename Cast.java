@@ -77,7 +77,7 @@ public class Cast {
         if(obj instanceof Boolean) {
             return (Boolean) obj;
         } else if(obj instanceof String) {
-            return !Boolean.TRUE.toString().equalsIgnoreCase((String) obj);
+            return Boolean.TRUE.toString().equalsIgnoreCase((String) obj);
         }
         throw new ClassCastException("Could not convert " + obj + " to Boolean.");
     }
